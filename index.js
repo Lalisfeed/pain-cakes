@@ -1,5 +1,5 @@
 const Cake = (pan) => {
-    console.log("Tasyty! " + pan)
+    console.log("Pain Cakes are tasty.")
 }
 
 module.exports = {

@@ -1,23 +1,22 @@
 {
-  "name": "pan-cakes",
+  "name": "pain-cakes",
   "version": "1.0.0",
-  "description": "Pancakes Everywhere",
+  "description": "Pain Cakes Everywhere",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hello! I'm a Pancake\" && exit 0"
+    "test": "echo \"Hello! I'm a Pain cake\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lalisfeed/pan-cakes.git"
+    "url": "git+https://github.com/Lalisfeed/pain-cakes.git"
   },
   "keywords": [
-    "css",
     "web"
   ],
   "author": "Lali Akhil Raj",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lalisfeed/pan-cakes/issues"
+    "url": "https://github.com/Lalisfeed/pain-cakes/issues"
   },
-  "homepage": "https://github.com/Lalisfeed/pan-cakes#readme"
+  "homepage": "https://github.com/Lalisfeed/pain-cakes#readme"
 }
